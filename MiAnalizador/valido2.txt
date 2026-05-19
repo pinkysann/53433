@@ -1,0 +1,7 @@
+if (0) {
+    return;
+}
+else {
+    printf("Error");
+    return;
+}
